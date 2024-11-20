@@ -11,7 +11,7 @@ const Project = () => {
       description: `Application mobile pour la surveillance automatique des personnes
       atteintes d'Alzheimer en utilisant GPS. `,
       image: alztrack,
-      link: `https://github.com/whoamiisroot`,
+      link: `https://github.com/whoamiisroot/AlzTrack`,
     },
     {
       name: `Shortest Path - Shell`,
